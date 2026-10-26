@@ -1,0 +1,58 @@
+AFFICIONADO COFFEE ROASTERS
+DATA-DRIVEN FORECASTING & PEAK DEMAND PREDICTION
+CONSOLIDATED PROJECT SUMMARY
+====================================================================
+
+1. PROJECT OBJECTIVE
+--------------------------------------------------------------------
+Analyze historical transaction patterns, identify peak-demand hours, compare demand across stores, and evaluate a preliminary model for aggregated store-hour demand.
+
+2. DATASET OVERVIEW
+--------------------------------------------------------------------
+Dataset records: 149116
+Missing values: See EDA report
+Duplicate rows: 0
+Total quantity sold: 214470.0
+Calculated revenue: 698812.3300000001
+
+3. PEAK-DEMAND FINDINGS
+--------------------------------------------------------------------
+Peak hour by quantity in the hourly summary: 10:00 (26,713 units).
+Peak hour by revenue in the hourly summary: 10:00 ($88,673.39).
+
+4. PRELIMINARY MODEL RESULTS
+--------------------------------------------------------------------
+Model: RandomForestRegressor
+Target: total_quantity
+Test rows: 11
+MAE: 682.654
+RMSE: 1080.529
+R-squared: 0.263
+Median absolute error: 365.718
+Maximum absolute error: 2865.812
+
+5. TOP MODEL FEATURES
+--------------------------------------------------------------------
+numeric__transaction_hour: 0.9361
+categorical__store_location_Astoria: 0.0188
+categorical__store_id_3: 0.0157
+categorical__store_id_8: 0.0099
+categorical__store_location_Lower Manhattan: 0.0070
+
+6. DATA LIMITATIONS AND INTERPRETATION
+--------------------------------------------------------------------
+The source dataset contains time-of-day information but no complete transaction-date column.
+Consequently, this project cannot establish genuine daily, weekly, or multiweek forecasts, nor can it perform chronological validation across future dates.
+The Random Forest model was evaluated on a random holdout of aggregated store-hour rows. There are only 43 store-hour rows in the modeling dataset and 11 test rows.
+The current R-squared score is preliminary and does not demonstrate reliable future forecasting performance.
+For operational forecasting, obtain transaction dates and build a chronological dataset with sufficient history. Then compare baseline and time-series models using time-based validation.
+
+7. GENERATED PROJECT OUTPUTS
+--------------------------------------------------------------------
+Hourly demand summaries by store and category.
+Exploratory data analysis reports and charts.
+Model predictions, metrics, and feature importance.
+Actual-versus-predicted and prediction-error charts.
+Model evaluation report.
+
+END OF SUMMARY

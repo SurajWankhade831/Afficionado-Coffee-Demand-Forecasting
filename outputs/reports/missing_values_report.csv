@@ -1,0 +1,12 @@
+column,missing_values,missing_percent
+transaction_id,0,0.0
+year,0,0.0
+transaction_time,0,0.0
+transaction_qty,0,0.0
+store_id,0,0.0
+store_location,0,0.0
+product_id,0,0.0
+unit_price,0,0.0
+product_category,0,0.0
+product_type,0,0.0
+product_detail,0,0.0

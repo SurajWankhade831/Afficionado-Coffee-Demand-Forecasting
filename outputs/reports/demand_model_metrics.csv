@@ -1,0 +1,2 @@
+model,target,test_rows,MAE,RMSE,R2,validation_type,limitation
+RandomForestRegressor,total_quantity,11,682.6540654160656,1080.5289412265026,0.26278978117635854,Random holdout of aggregated store-hour rows,Not a future-date forecast; dataset has no full transaction dates.

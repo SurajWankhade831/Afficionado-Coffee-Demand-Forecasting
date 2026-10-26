@@ -1,0 +1,379 @@
+store_id,store_location,transaction_hour,product_category,transaction_count,total_quantity,total_revenue
+3,Astoria,7,Bakery,546,548,1966.5
+3,Astoria,7,Branded,27,27,538.0
+3,Astoria,7,Coffee,1631,2425,7421.7
+3,Astoria,7,Coffee beans,44,44,864.25
+3,Astoria,7,Drinking Chocolate,321,453,1886.75
+3,Astoria,7,Flavours,253,366,292.8
+3,Astoria,7,Loose Tea,49,49,445.7
+3,Astoria,7,Packaged Chocolate,17,17,186.5
+3,Astoria,7,Tea,1293,1936,5426.6
+3,Astoria,8,Bakery,724,744,2644.25
+3,Astoria,8,Branded,25,25,466.0
+3,Astoria,8,Coffee,1962,2813,8370.7
+3,Astoria,8,Coffee beans,99,99,1942.7
+3,Astoria,8,Drinking Chocolate,379,552,2328.0
+3,Astoria,8,Flavours,217,297,237.60000000000002
+3,Astoria,8,Loose Tea,44,44,397.54999999999995
+3,Astoria,8,Packaged Chocolate,27,27,257.7
+3,Astoria,8,Tea,1489,2155,6161.4
+3,Astoria,9,Bakery,802,814,2874.5
+3,Astoria,9,Branded,58,58,1069.0
+3,Astoria,9,Coffee,1914,2815,8497.55
+3,Astoria,9,Coffee beans,68,68,1190.6
+3,Astoria,9,Drinking Chocolate,402,559,2296.5
+3,Astoria,9,Flavours,276,421,336.8
+3,Astoria,9,Loose Tea,64,64,595.0
+3,Astoria,9,Packaged Chocolate,4,4,53.32
+3,Astoria,9,Tea,1495,2252,6270.3
+3,Astoria,10,Bakery,819,827,2916.75
+3,Astoria,10,Branded,38,38,677.0
+3,Astoria,10,Coffee,1966,2949,9058.3
+3,Astoria,10,Coffee beans,80,80,1660.35
+3,Astoria,10,Drinking Chocolate,429,616,2594.25
+3,Astoria,10,Flavours,305,465,372.0
+3,Astoria,10,Loose Tea,39,39,366.2
+3,Astoria,10,Packaged Chocolate,17,17,152.12
+3,Astoria,10,Tea,1598,2357,6629.15
+3,Astoria,11,Bakery,488,515,1868.25
+3,Astoria,11,Branded,12,12,252.0
+3,Astoria,11,Coffee,1474,2207,6658.35
+3,Astoria,11,Coffee beans,2,2,45.0
+3,Astoria,11,Drinking Chocolate,311,474,1940.25
+3,Astoria,11,Flavours,36,51,40.800000000000004
+3,Astoria,11,Loose Tea,7,7,64.85
+3,Astoria,11,Packaged Chocolate,6,6,79.98
+3,Astoria,11,Tea,1077,1618,4548.65
+3,Astoria,12,Bakery,462,481,1668.5
+3,Astoria,12,Branded,7,7,150.0
+3,Astoria,12,Coffee,1398,2126,6391.5
+3,Astoria,12,Coffee beans,10,10,288.5
+3,Astoria,12,Drinking Chocolate,299,452,1878.25
+3,Astoria,12,Flavours,30,50,40.0
+3,Astoria,12,Loose Tea,13,13,123.44999999999999
+3,Astoria,12,Tea,1219,1816,5141.0
+3,Astoria,13,Bakery,485,504,1758.0
+3,Astoria,13,Branded,14,14,294.0
+3,Astoria,13,Coffee,1405,2122,6499.95
+3,Astoria,13,Coffee beans,17,17,437.15
+3,Astoria,13,Drinking Chocolate,308,456,1907.75
+3,Astoria,13,Flavours,51,86,68.8
+3,Astoria,13,Loose Tea,18,18,179.64999999999998
+3,Astoria,13,Packaged Chocolate,7,7,76.12
+3,Astoria,13,Tea,1151,1670,4726.45
+3,Astoria,14,Bakery,474,494,1732.75
+3,Astoria,14,Branded,13,13,204.0
+3,Astoria,14,Coffee,1295,1919,5899.3
+3,Astoria,14,Coffee beans,27,27,495.5
+3,Astoria,14,Drinking Chocolate,297,442,1832.75
+3,Astoria,14,Flavours,57,86,68.8
+3,Astoria,14,Loose Tea,21,21,198.85
+3,Astoria,14,Packaged Chocolate,7,7,72.52
+3,Astoria,14,Tea,1128,1652,4670.8
+3,Astoria,15,Bakery,495,508,1809.5
+3,Astoria,15,Branded,23,23,595.0
+3,Astoria,15,Coffee,1334,1940,5966.95
+3,Astoria,15,Coffee beans,20,20,371.25
+3,Astoria,15,Drinking Chocolate,302,441,1845.25
+3,Astoria,15,Flavours,50,62,49.6
+3,Astoria,15,Loose Tea,3,3,28.5
+3,Astoria,15,Packaged Chocolate,4,4,30.4
+3,Astoria,15,Tea,1192,1753,4955.5
+3,Astoria,16,Bakery,532,552,2011.5
+3,Astoria,16,Branded,12,12,210.0
+3,Astoria,16,Coffee,1508,2180,6487.3
+3,Astoria,16,Coffee beans,24,24,587.3
+3,Astoria,16,Drinking Chocolate,301,435,1796.25
+3,Astoria,16,Flavours,60,88,70.4
+3,Astoria,16,Loose Tea,21,21,189.6
+3,Astoria,16,Packaged Chocolate,2,2,15.2
+3,Astoria,16,Tea,1139,1668,4743.3
+3,Astoria,17,Bakery,491,512,1837.25
+3,Astoria,17,Branded,19,19,310.0
+3,Astoria,17,Coffee,1340,2004,6005.05
+3,Astoria,17,Coffee beans,27,27,468.0
+3,Astoria,17,Drinking Chocolate,336,561,2293.25
+3,Astoria,17,Flavours,50,75,60.0
+3,Astoria,17,Loose Tea,11,11,99.94999999999999
+3,Astoria,17,Packaged Chocolate,8,8,60.8
+3,Astoria,17,Tea,1120,1692,4705.0
+3,Astoria,18,Bakery,481,486,1707.5
+3,Astoria,18,Branded,11,11,202.0
+3,Astoria,18,Coffee,1434,2135,6365.65
+3,Astoria,18,Coffee beans,33,33,775.75
+3,Astoria,18,Drinking Chocolate,301,451,1846.0
+3,Astoria,18,Flavours,51,82,65.60000000000001
+3,Astoria,18,Loose Tea,26,26,250.35
+3,Astoria,18,Tea,1126,1670,4738.45
+3,Astoria,19,Bakery,490,511,1804.5
+3,Astoria,19,Branded,20,20,490.0
+3,Astoria,19,Coffee,1364,2020,6122.0
+3,Astoria,19,Coffee beans,51,51,1092.85
+3,Astoria,19,Drinking Chocolate,314,459,1890.0
+3,Astoria,19,Flavours,54,77,61.6
+3,Astoria,19,Loose Tea,28,28,254.35
+3,Astoria,19,Packaged Chocolate,11,11,105.05
+3,Astoria,19,Tea,1233,1809,5123.3
+5,Lower Manhattan,6,Bakery,424,433,1534.7
+5,Lower Manhattan,6,Branded,22,22,364.0
+5,Lower Manhattan,6,Coffee,1025,1689,5096.95
+5,Lower Manhattan,6,Coffee beans,30,30,489.5
+5,Lower Manhattan,6,Drinking Chocolate,254,471,1980.0
+5,Lower Manhattan,6,Flavours,250,421,336.8
+5,Lower Manhattan,6,Loose Tea,50,50,485.29999999999995
+5,Lower Manhattan,6,Packaged Chocolate,30,30,205.2
+5,Lower Manhattan,6,Tea,833,1370,3876.65
+5,Lower Manhattan,7,Bakery,1003,1027,3598.79
+5,Lower Manhattan,7,Branded,37,37,742.0
+5,Lower Manhattan,7,Coffee,2145,3566,10653.5
+5,Lower Manhattan,7,Coffee beans,74,74,1566.7
+5,Lower Manhattan,7,Drinking Chocolate,379,688,2888.5
+5,Lower Manhattan,7,Flavours,365,589,471.20000000000005
+5,Lower Manhattan,7,Loose Tea,48,48,440.9
+5,Lower Manhattan,7,Packaged Chocolate,31,31,327.28
+5,Lower Manhattan,7,Tea,1710,2790,7847.75
+5,Lower Manhattan,8,Bakery,1003,1031,3592.39
+5,Lower Manhattan,8,Branded,48,54,1044.0
+5,Lower Manhattan,8,Coffee,2123,3471,10547.6
+5,Lower Manhattan,8,Coffee beans,69,69,1518.75
+5,Lower Manhattan,8,Drinking Chocolate,396,653,2687.25
+5,Lower Manhattan,8,Flavours,410,659,527.2
+5,Lower Manhattan,8,Loose Tea,33,33,305.54999999999995
+5,Lower Manhattan,8,Packaged Chocolate,14,14,152.24
+5,Lower Manhattan,8,Tea,1683,2804,7974.55
+5,Lower Manhattan,9,Bakery,969,975,3476.26
+5,Lower Manhattan,9,Branded,51,66,952.0
+5,Lower Manhattan,9,Coffee,2168,3574,11011.5
+5,Lower Manhattan,9,Coffee beans,80,85,1769.8
+5,Lower Manhattan,9,Drinking Chocolate,422,677,2800.25
+5,Lower Manhattan,9,Flavours,372,570,456.00000000000006
+5,Lower Manhattan,9,Loose Tea,42,42,392.75
+5,Lower Manhattan,9,Packaged Chocolate,12,12,126.51
+5,Lower Manhattan,9,Tea,1798,2921,8126.6
+5,Lower Manhattan,10,Bakery,1114,1129,4012.0
+5,Lower Manhattan,10,Branded,44,52,798.0
+5,Lower Manhattan,10,Coffee,2337,3799,11556.6
+5,Lower Manhattan,10,Coffee beans,86,86,1834.4
+5,Lower Manhattan,10,Drinking Chocolate,431,689,2826.75
+5,Lower Manhattan,10,Flavours,450,738,590.4000000000001
+5,Lower Manhattan,10,Loose Tea,68,68,631.4499999999999
+5,Lower Manhattan,10,Packaged Chocolate,33,33,313.56
+5,Lower Manhattan,10,Tea,1734,2858,8078.3
+5,Lower Manhattan,11,Bakery,464,476,1662.06
+5,Lower Manhattan,11,Branded,16,16,204.0
+5,Lower Manhattan,11,Coffee,1039,1651,4967.3
+5,Lower Manhattan,11,Coffee beans,35,35,704.5
+5,Lower Manhattan,11,Drinking Chocolate,184,283,1150.5
+5,Lower Manhattan,11,Flavours,155,240,192.0
+5,Lower Manhattan,11,Loose Tea,16,16,149.39999999999998
+5,Lower Manhattan,11,Packaged Chocolate,2,2,26.66
+5,Lower Manhattan,11,Tea,844,1371,3838.05
+5,Lower Manhattan,12,Bakery,452,471,1657.64
+5,Lower Manhattan,12,Branded,17,17,284.0
+5,Lower Manhattan,12,Coffee,1119,1692,5100.4
+5,Lower Manhattan,12,Coffee beans,26,26,609.4
+5,Lower Manhattan,12,Drinking Chocolate,181,260,1081.5
+5,Lower Manhattan,12,Flavours,151,250,200.0
+5,Lower Manhattan,12,Loose Tea,13,13,117.25
+5,Lower Manhattan,12,Packaged Chocolate,7,7,53.199999999999996
+5,Lower Manhattan,12,Tea,862,1455,4065.1
+5,Lower Manhattan,13,Bakery,403,411,1457.83
+5,Lower Manhattan,13,Branded,30,30,616.0
+5,Lower Manhattan,13,Coffee,1065,1649,4852.8
+5,Lower Manhattan,13,Coffee beans,25,25,564.5
+5,Lower Manhattan,13,Drinking Chocolate,215,308,1256.75
+5,Lower Manhattan,13,Flavours,140,205,164.0
+5,Lower Manhattan,13,Loose Tea,22,22,206.2
+5,Lower Manhattan,13,Packaged Chocolate,13,13,96.39999999999999
+5,Lower Manhattan,13,Tea,720,1100,3135.0
+5,Lower Manhattan,14,Bakery,511,529,1856.71
+5,Lower Manhattan,14,Branded,11,11,152.0
+5,Lower Manhattan,14,Coffee,1102,1777,5370.3
+5,Lower Manhattan,14,Coffee beans,29,29,652.5
+5,Lower Manhattan,14,Drinking Chocolate,242,357,1462.0
+5,Lower Manhattan,14,Flavours,110,180,144.0
+5,Lower Manhattan,14,Loose Tea,17,17,165.04999999999998
+5,Lower Manhattan,14,Packaged Chocolate,7,7,93.31
+5,Lower Manhattan,14,Tea,831,1397,3936.1
+5,Lower Manhattan,15,Bakery,497,503,1766.7
+5,Lower Manhattan,15,Branded,24,24,364.0
+5,Lower Manhattan,15,Coffee,1228,1989,6025.85
+5,Lower Manhattan,15,Coffee beans,29,29,678.05
+5,Lower Manhattan,15,Drinking Chocolate,221,340,1408.75
+5,Lower Manhattan,15,Flavours,142,211,168.8
+5,Lower Manhattan,15,Loose Tea,12,12,109.35
+5,Lower Manhattan,15,Packaged Chocolate,17,17,124.39999999999999
+5,Lower Manhattan,15,Tea,881,1469,4124.0
+5,Lower Manhattan,16,Bakery,388,388,1372.67
+5,Lower Manhattan,16,Branded,16,16,204.0
+5,Lower Manhattan,16,Coffee,1136,1834,5513.1
+5,Lower Manhattan,16,Coffee beans,32,32,543.5
+5,Lower Manhattan,16,Drinking Chocolate,205,296,1256.5
+5,Lower Manhattan,16,Flavours,162,258,206.4
+5,Lower Manhattan,16,Loose Tea,31,31,280.45
+5,Lower Manhattan,16,Packaged Chocolate,5,5,32.0
+5,Lower Manhattan,16,Tea,828,1288,3612.8
+5,Lower Manhattan,17,Bakery,396,400,1395.21
+5,Lower Manhattan,17,Branded,10,10,170.0
+5,Lower Manhattan,17,Coffee,1047,1676,5180.65
+5,Lower Manhattan,17,Coffee beans,6,6,97.25
+5,Lower Manhattan,17,Drinking Chocolate,176,260,1076.25
+5,Lower Manhattan,17,Flavours,141,224,179.20000000000002
+5,Lower Manhattan,17,Loose Tea,20,20,189.1
+5,Lower Manhattan,17,Packaged Chocolate,4,4,30.4
+5,Lower Manhattan,17,Tea,725,1150,3187.45
+5,Lower Manhattan,18,Bakery,248,249,876.69
+5,Lower Manhattan,18,Branded,19,19,266.0
+5,Lower Manhattan,18,Coffee,600,914,2801.55
+5,Lower Manhattan,18,Coffee beans,4,4,77.75
+5,Lower Manhattan,18,Drinking Chocolate,84,124,513.5
+5,Lower Manhattan,18,Flavours,74,140,112.00000000000001
+5,Lower Manhattan,18,Loose Tea,5,5,47.5
+5,Lower Manhattan,18,Packaged Chocolate,5,5,38.0
+5,Lower Manhattan,18,Tea,388,618,1738.7
+5,Lower Manhattan,19,Bakery,11,11,42.419999999999995
+5,Lower Manhattan,19,Branded,4,4,48.0
+5,Lower Manhattan,19,Coffee,38,57,200.2
+5,Lower Manhattan,19,Coffee beans,6,6,124.35
+5,Lower Manhattan,19,Drinking Chocolate,14,26,96.5
+5,Lower Manhattan,19,Flavours,8,24,19.200000000000003
+5,Lower Manhattan,19,Loose Tea,4,4,38.0
+5,Lower Manhattan,19,Tea,40,62,168.0
+5,Lower Manhattan,20,Bakery,7,7,26.869999999999997
+5,Lower Manhattan,20,Coffee,32,37,107.2
+5,Lower Manhattan,20,Drinking Chocolate,1,2,9.5
+5,Lower Manhattan,20,Tea,35,56,155.7
+8,Hell's Kitchen,6,Bakery,317,320,1143.25
+8,Hell's Kitchen,6,Branded,3,3,42.0
+8,Hell's Kitchen,6,Coffee,604,899,2715.0
+8,Hell's Kitchen,6,Coffee beans,20,20,384.95
+8,Hell's Kitchen,6,Drinking Chocolate,124,192,790.5
+8,Hell's Kitchen,6,Flavours,78,117,93.60000000000001
+8,Hell's Kitchen,6,Loose Tea,14,14,129.15
+8,Hell's Kitchen,6,Packaged Chocolate,4,4,53.32
+8,Hell's Kitchen,6,Tea,512,780,2179.4
+8,Hell's Kitchen,7,Bakery,662,666,2383.15
+8,Hell's Kitchen,7,Branded,28,28,474.0
+8,Hell's Kitchen,7,Coffee,1221,1805,5504.7
+8,Hell's Kitchen,7,Coffee beans,61,61,1171.25
+8,Hell's Kitchen,7,Drinking Chocolate,289,416,1732.0
+8,Hell's Kitchen,7,Flavours,180,277,221.60000000000002
+8,Hell's Kitchen,7,Loose Tea,37,37,342.45
+8,Hell's Kitchen,7,Packaged Chocolate,23,23,166.4
+8,Hell's Kitchen,7,Tea,954,1421,3965.5
+8,Hell's Kitchen,8,Bakery,1151,1163,4181.2
+8,Hell's Kitchen,8,Branded,29,29,588.0
+8,Hell's Kitchen,8,Coffee,2602,3861,11661.55
+8,Hell's Kitchen,8,Coffee beans,93,93,1983.3
+8,Hell's Kitchen,8,Drinking Chocolate,493,755,3150.75
+8,Hell's Kitchen,8,Flavours,393,575,460.0
+8,Hell's Kitchen,8,Loose Tea,76,76,700.75
+8,Hell's Kitchen,8,Packaged Chocolate,21,21,195.84
+8,Hell's Kitchen,8,Tea,2051,3080,8623.05
+8,Hell's Kitchen,9,Bakery,1159,1174,4173.15
+8,Hell's Kitchen,9,Branded,1,1,14.0
+8,Hell's Kitchen,9,Coffee,2570,3832,11505.8
+8,Hell's Kitchen,9,Coffee beans,118,153,4392.85
+8,Hell's Kitchen,9,Drinking Chocolate,435,644,2690.75
+8,Hell's Kitchen,9,Flavours,337,479,383.20000000000005
+8,Hell's Kitchen,9,Loose Tea,118,118,1084.3999999999999
+8,Hell's Kitchen,9,Packaged Chocolate,26,26,203.99
+8,Hell's Kitchen,9,Tea,2003,2966,8426.15
+8,Hell's Kitchen,10,Bakery,1126,1133,4053.75
+8,Hell's Kitchen,10,Branded,16,16,270.0
+8,Hell's Kitchen,10,Coffee,2703,4150,12682.2
+8,Hell's Kitchen,10,Coffee beans,172,179,4113.95
+8,Hell's Kitchen,10,Drinking Chocolate,427,637,2649.5
+8,Hell's Kitchen,10,Flavours,466,713,570.4
+8,Hell's Kitchen,10,Loose Tea,66,66,610.8
+8,Hell's Kitchen,10,Packaged Chocolate,42,42,334.11
+8,Hell's Kitchen,10,Tea,1939,2937,8321.1
+8,Hell's Kitchen,11,Bakery,586,586,2081.75
+8,Hell's Kitchen,11,Branded,6,6,76.0
+8,Hell's Kitchen,11,Coffee,1454,2137,6562.5
+8,Hell's Kitchen,11,Coffee beans,52,80,2545.7
+8,Hell's Kitchen,11,Drinking Chocolate,279,425,1763.0
+8,Hell's Kitchen,11,Flavours,155,243,194.4
+8,Hell's Kitchen,11,Loose Tea,26,26,243.7
+8,Hell's Kitchen,11,Packaged Chocolate,13,13,142.24
+8,Hell's Kitchen,11,Tea,1027,1537,4317.25
+8,Hell's Kitchen,12,Bakery,241,242,854.3
+8,Hell's Kitchen,12,Branded,3,3,36.0
+8,Hell's Kitchen,12,Coffee,1033,1558,4671.0
+8,Hell's Kitchen,12,Coffee beans,22,22,486.25
+8,Hell's Kitchen,12,Drinking Chocolate,226,344,1456.75
+8,Hell's Kitchen,12,Flavours,78,117,93.60000000000001
+8,Hell's Kitchen,12,Loose Tea,26,26,235.79999999999998
+8,Hell's Kitchen,12,Packaged Chocolate,7,7,48.4
+8,Hell's Kitchen,12,Tea,806,1225,3461.0
+8,Hell's Kitchen,13,Bakery,334,337,1205.25
+8,Hell's Kitchen,13,Branded,4,4,56.0
+8,Hell's Kitchen,13,Coffee,1144,1728,5268.2
+8,Hell's Kitchen,13,Coffee beans,29,29,565.0
+8,Hell's Kitchen,13,Drinking Chocolate,206,306,1250.5
+8,Hell's Kitchen,13,Flavours,86,133,106.4
+8,Hell's Kitchen,13,Loose Tea,8,8,72.69999999999999
+8,Hell's Kitchen,13,Packaged Chocolate,12,12,87.6
+8,Hell's Kitchen,13,Tea,802,1225,3458.45
+8,Hell's Kitchen,14,Bakery,322,322,1151.0
+8,Hell's Kitchen,14,Branded,6,6,72.0
+8,Hell's Kitchen,14,Coffee,1195,1793,5455.75
+8,Hell's Kitchen,14,Coffee beans,23,23,425.95
+8,Hell's Kitchen,14,Drinking Chocolate,210,322,1342.75
+8,Hell's Kitchen,14,Flavours,120,180,144.0
+8,Hell's Kitchen,14,Loose Tea,12,12,107.39999999999999
+8,Hell's Kitchen,14,Packaged Chocolate,6,6,73.05
+8,Hell's Kitchen,14,Tea,860,1278,3525.6
+8,Hell's Kitchen,15,Bakery,324,333,1163.5
+8,Hell's Kitchen,15,Branded,3,3,42.0
+8,Hell's Kitchen,15,Coffee,1075,1611,4744.25
+8,Hell's Kitchen,15,Coffee beans,25,25,524.0
+8,Hell's Kitchen,15,Drinking Chocolate,191,284,1202.25
+8,Hell's Kitchen,15,Flavours,77,117,93.60000000000001
+8,Hell's Kitchen,15,Loose Tea,31,31,285.4
+8,Hell's Kitchen,15,Packaged Chocolate,6,6,45.599999999999994
+8,Hell's Kitchen,15,Tea,773,1165,3210.65
+8,Hell's Kitchen,16,Bakery,361,361,1277.25
+8,Hell's Kitchen,16,Branded,7,7,90.0
+8,Hell's Kitchen,16,Coffee,1106,1631,4861.15
+8,Hell's Kitchen,16,Coffee beans,35,35,651.85
+8,Hell's Kitchen,16,Drinking Chocolate,235,332,1342.0
+8,Hell's Kitchen,16,Flavours,91,147,117.60000000000001
+8,Hell's Kitchen,16,Loose Tea,14,14,125.29999999999998
+8,Hell's Kitchen,16,Packaged Chocolate,6,6,79.98
+8,Hell's Kitchen,16,Tea,836,1218,3445.35
+8,Hell's Kitchen,17,Bakery,332,332,1212.75
+8,Hell's Kitchen,17,Branded,3,3,42.0
+8,Hell's Kitchen,17,Coffee,1187,1786,5341.95
+8,Hell's Kitchen,17,Coffee beans,27,27,453.5
+8,Hell's Kitchen,17,Drinking Chocolate,223,339,1406.25
+8,Hell's Kitchen,17,Flavours,87,140,112.0
+8,Hell's Kitchen,17,Loose Tea,23,23,207.85
+8,Hell's Kitchen,17,Packaged Chocolate,14,14,100.4
+8,Hell's Kitchen,17,Tea,922,1377,3912.8
+8,Hell's Kitchen,18,Bakery,299,299,1066.75
+8,Hell's Kitchen,18,Coffee,1132,1721,5074.0
+8,Hell's Kitchen,18,Coffee beans,23,23,456.55
+8,Hell's Kitchen,18,Drinking Chocolate,150,235,959.5
+8,Hell's Kitchen,18,Flavours,78,125,100.0
+8,Hell's Kitchen,18,Loose Tea,13,13,116.64999999999999
+8,Hell's Kitchen,18,Packaged Chocolate,5,5,45.86
+8,Hell's Kitchen,18,Tea,908,1433,4043.9
+8,Hell's Kitchen,19,Bakery,323,330,1150.9
+8,Hell's Kitchen,19,Branded,6,6,84.0
+8,Hell's Kitchen,19,Coffee,983,1431,4307.95
+8,Hell's Kitchen,19,Coffee beans,11,11,210.0
+8,Hell's Kitchen,19,Drinking Chocolate,227,355,1520.25
+8,Hell's Kitchen,19,Flavours,100,155,124.0
+8,Hell's Kitchen,19,Loose Tea,19,19,180.0
+8,Hell's Kitchen,19,Packaged Chocolate,5,5,45.86
+8,Hell's Kitchen,19,Tea,728,1103,3143.4
+8,Hell's Kitchen,20,Bakery,80,80,289.0
+8,Hell's Kitchen,20,Branded,4,4,56.0
+8,Hell's Kitchen,20,Coffee,178,277,866.65
+8,Hell's Kitchen,20,Coffee beans,9,9,270.0
+8,Hell's Kitchen,20,Drinking Chocolate,48,86,329.5
+8,Hell's Kitchen,20,Flavours,44,78,62.400000000000006
+8,Hell's Kitchen,20,Loose Tea,2,2,19.0
+8,Hell's Kitchen,20,Packaged Chocolate,7,7,76.12
+8,Hell's Kitchen,20,Tea,156,235,667.7

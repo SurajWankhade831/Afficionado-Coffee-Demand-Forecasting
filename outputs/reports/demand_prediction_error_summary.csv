@@ -1,0 +1,2 @@
+test_rows,mean_actual_quantity,mean_predicted_quantity,mean_absolute_error,median_absolute_error,maximum_absolute_error,mean_signed_error,note
+11,4349.454545454545,4469.7538799903805,682.6540654160656,365.7184603174637,2865.8115674603177,-120.29933453583507,Evaluation of held-out aggregated store-hour rows; not a future-date forecast evaluation.

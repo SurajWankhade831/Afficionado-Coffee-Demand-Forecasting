@@ -1,0 +1,37 @@
+DEMAND-PATTERN MODEL EVALUATION
+============================================================
+
+Model: RandomForestRegressor
+Target: total_quantity
+Test rows: 11
+
+MODEL METRICS
+------------------------------------------------------------
+MAE: 682.654
+RMSE: 1080.529
+R-squared: 0.263
+
+PREDICTION ERROR SUMMARY
+------------------------------------------------------------
+Mean actual quantity: 4349.455
+Mean predicted quantity: 4469.754
+Median absolute error: 365.718
+Maximum absolute error: 2865.812
+Mean signed error: -120.299
+
+INTERPRETATION
+------------------------------------------------------------
+The model explains a limited share of the variation in the held-out store-hour observations. Its results should be treated as preliminary.
+The evaluation uses only a small random holdout of 11 aggregated store-hour rows.
+The source dataset has no complete transaction-date column. Therefore, this evaluation does not measure performance on future dates, days, or weeks.
+For dependable operational forecasting, obtain transaction dates and build a chronological dataset with enough history to support time-based validation.
+
+FEATURE IMPORTANCE
+------------------------------------------------------------
+numeric__transaction_hour: 0.9361
+categorical__store_location_Astoria: 0.0188
+categorical__store_id_3: 0.0157
+categorical__store_id_8: 0.0099
+categorical__store_location_Lower Manhattan: 0.0070
+categorical__store_location_Hell's Kitchen: 0.0067
+categorical__store_id_5: 0.0058

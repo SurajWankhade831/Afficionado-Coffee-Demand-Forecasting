@@ -1,0 +1,8 @@
+feature,importance
+numeric__transaction_hour,0.9361042031217116
+categorical__store_location_Astoria,0.018758786487519087
+categorical__store_id_3,0.01571396823648227
+categorical__store_id_8,0.009878139220928237
+categorical__store_location_Lower Manhattan,0.00702573172155566
+categorical__store_location_Hell's Kitchen,0.006719496598045603
+categorical__store_id_5,0.005799674613757508

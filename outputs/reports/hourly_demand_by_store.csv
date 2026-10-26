@@ -1,0 +1,44 @@
+store_id,store_location,transaction_hour,transaction_count,total_quantity,total_revenue
+3,Astoria,7,4181,5865,19028.8
+3,Astoria,8,4966,6756,22805.9
+3,Astoria,9,5083,7055,23183.57
+3,Astoria,10,5291,7388,24426.12
+3,Astoria,11,3413,4892,15498.13
+3,Astoria,12,3438,4955,15681.2
+3,Astoria,13,3456,4894,15947.87
+3,Astoria,14,3319,4661,15175.27
+3,Astoria,15,3423,4754,15651.95
+3,Astoria,16,3599,4982,16110.85
+3,Astoria,17,3402,4909,15839.3
+3,Astoria,18,3463,4894,15951.3
+3,Astoria,19,3565,4986,16943.65
+5,Lower Manhattan,6,2918,4516,14369.1
+5,Lower Manhattan,7,5792,8850,28536.62
+5,Lower Manhattan,8,5779,8788,28349.53
+5,Lower Manhattan,9,5914,8922,29111.67
+5,Lower Manhattan,10,6297,9452,30641.46
+5,Lower Manhattan,11,2755,4090,12894.47
+5,Lower Manhattan,12,2828,4191,13168.49
+5,Lower Manhattan,13,2633,3763,12349.48
+5,Lower Manhattan,14,2860,4304,13831.97
+5,Lower Manhattan,15,3051,4594,14769.9
+5,Lower Manhattan,16,2803,4148,13021.42
+5,Lower Manhattan,17,2525,3750,11505.51
+5,Lower Manhattan,18,1427,2078,6471.69
+5,Lower Manhattan,19,125,194,736.67
+5,Lower Manhattan,20,75,102,299.27
+8,Hell's Kitchen,6,1676,2349,7531.17
+8,Hell's Kitchen,7,3455,4734,15961.05
+8,Hell's Kitchen,8,6909,9653,31544.44
+8,Hell's Kitchen,9,6767,9393,32874.29
+8,Hell's Kitchen,10,6957,9873,33605.81
+8,Hell's Kitchen,11,3598,5053,17926.54
+8,Hell's Kitchen,12,2442,3544,11343.1
+8,Hell's Kitchen,13,2625,3782,12070.1
+8,Hell's Kitchen,14,2754,3942,12297.5
+8,Hell's Kitchen,15,2505,3575,11311.25
+8,Hell's Kitchen,16,2691,3751,11990.48
+8,Hell's Kitchen,17,2818,4041,12789.5
+8,Hell's Kitchen,18,2608,3854,11863.21
+8,Hell's Kitchen,19,2402,3415,10766.36
+8,Hell's Kitchen,20,528,778,2636.37
